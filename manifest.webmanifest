@@ -1,0 +1,18 @@
+{
+  "name": "1002 — One Last Year",
+  "short_name": "1002",
+  "description": "Ella, Keira, Megan and Tristan's last-year bucket list and memory app.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f0e6",
+  "theme_color": "#102a43",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
